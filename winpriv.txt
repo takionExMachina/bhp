@@ -1,0 +1,9 @@
+--SeBackupPrivilege This enables the user process to back up files 
+and directories,and grants READ access to files no matter what 
+their ACL defines.
+
+--SeDebugPrivilege This enables the user process to debug 
+other processes. This also includes obtaining process 
+handles to inject DLLs or code into running processes.
+
+--SeLoadDriver This enables a user process to load or unload drivers.
